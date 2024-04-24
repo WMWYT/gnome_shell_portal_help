@@ -4,6 +4,8 @@
 
 ``` bash
 meson build
+cd build
+ninja
 ```
 
 ## 安装
